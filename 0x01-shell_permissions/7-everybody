@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+x bello
+chmod 777 hello
